@@ -1,0 +1,192 @@
+{
+    "mes": "janeiro",
+    "ano": 2023,
+    "faturamento": [
+        {
+            "dia": 1,
+            "valor": 0,
+            "feriado": true,
+            "finalDeSemana": true
+        },
+        {
+            "dia": 2,
+            "valor": 820.60,
+            "feriado": false,
+            "finalDeSemana": false
+        },
+        {
+            "dia": 3,
+            "valor": 1900.33,
+            "feriado": false,
+            "finalDeSemana": false
+        },
+        {
+            "dia": 4,
+            "valor": 1456.28,
+            "feriado": false,
+            "finalDeSemana": false
+        },
+        {
+            "dia": 5,
+            "valor": 3645.14,
+            "feriado": false,
+            "finalDeSemana": false
+        },
+        {
+            "dia": 6,
+            "valor": 200.46,
+            "feriado": false,
+            "finalDeSemana": false
+        },
+        {
+            "dia": 7,
+            "valor": 0,
+            "feriado": false,
+            "finalDeSemana": true
+        },
+        {
+            "dia": 8,
+            "valor": 0,
+            "feriado": false,
+            "finalDeSemana": true
+        },
+        {
+            "dia": 9,
+            "valor": 5366.10,
+            "feriado": false,
+            "finalDeSemana": false
+        },
+        {
+            "dia": 10,
+            "valor": 780.89,
+            "feriado": false,
+            "finalDeSemana": false
+        },
+        {
+            "dia": 11,
+            "valor": 965.00,
+            "feriado": false,
+            "finalDeSemana": false
+        },
+        {
+            "dia": 12,
+            "valor": 4633.56,
+            "feriado": false,
+            "finalDeSemana": false
+        },
+        {
+            "dia": 13,
+            "valor": 3332.65,
+            "feriado": false,
+            "finalDeSemana": false
+        },
+        {
+            "dia": 14,
+            "valor": 0,
+            "feriado": false,
+            "finalDeSemana": true
+        },
+        {
+            "dia": 15,
+            "valor": 0,
+            "feriado": false,
+            "finalDeSemana": true
+        },
+        {
+            "dia": 16,
+            "valor": 8604.99,
+            "feriado": false,
+            "finalDeSemana": false
+        },
+        {
+            "dia": 17,
+            "valor": 8500.36,
+            "feriado": false,
+            "finalDeSemana": false
+        },
+        {
+            "dia": 18,
+            "valor": 7650.00,
+            "feriado": false,
+            "finalDeSemana": false
+        },
+        {
+            "dia": 19,
+            "valor": 5160.23,
+            "feriado": false,
+            "finalDeSemana": false
+        },
+        {
+            "dia": 20,
+            "valor": 4999.00,
+            "feriado": false,
+            "finalDeSemana": false
+        },
+        {
+            "dia": 21,
+            "valor": 0,
+            "feriado": false,
+            "finalDeSemana": true
+        },
+        {
+            "dia": 22,
+            "valor": 0,
+            "feriado": false,
+            "finalDeSemana": true
+        },
+        {
+            "dia": 23,
+            "valor": 4202.11,
+            "feriado": false,
+            "finalDeSemana": false
+        },
+        {
+            "dia": 24,
+            "valor": 4003.12,
+            "feriado": false,
+            "finalDeSemana": false
+        },
+        {
+            "dia": 25,
+            "valor": 3209.88,
+            "feriado": false,
+            "finalDeSemana": false
+        },
+        {
+            "dia": 26,
+            "valor": 2100.45,
+            "feriado": false,
+            "finalDeSemana": false
+        },
+        {
+            "dia": 27,
+            "valor": 1453.00,
+            "feriado": false,
+            "finalDeSemana": false
+        },
+        {
+            "dia": 28,
+            "valor": 0,
+            "feriado": false,
+            "finalDeSemana": true
+        },
+        {
+            "dia": 29,
+            "valor": 0,
+            "feriado": false,
+            "finalDeSemana": true
+        },
+        {
+            "dia": 30,
+            "valor": 1000.46,
+            "feriado": false,
+            "finalDeSemana": false
+        },
+        {
+            "dia": 31,
+            "valor": 924.24,
+            "feriado": false,
+            "finalDeSemana": false
+        }
+    ]
+}
